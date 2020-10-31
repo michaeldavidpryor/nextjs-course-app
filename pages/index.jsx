@@ -1,5 +1,9 @@
 import React from "react";
 
-const Index = () => <h1>Index Page</h1>;
+const Index = () => (
+  <div>
+    <h1>Index Page</h1>;
+  </div>
+);
 
 export default Index;
