@@ -1,3 +1,5 @@
 import React from "react";
 
-export default () => <h1>Index Page</h1>;
+const Index = () => <h1>Index Page</h1>;
+
+export default Index;
